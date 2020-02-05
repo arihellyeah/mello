@@ -26,7 +26,7 @@ If you see Ruby and Rails version then you are good to start. If not, [follow th
 Clone the repository:
 
 ```
-$ git clone https://github.com/arihellyeah/mello-rails-api.git
+$ git clone https://github.com/arihellyeah/mello.git
 ```
 
 Install all dependencies:
